@@ -1,0 +1,64 @@
+
+
+
+.notes-title {
+    font-size: 16px;
+    margin: 5px;
+}
+
+.notes-key {
+    font-size : 12px;
+    margin: 5px;
+    color : #005461;
+}
+
+.link-item {
+    text-decoration: none;
+    color : black;
+    
+
+}
+
+.notes-item {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: space-between;
+    width : 21%;
+    border : 1px solid green;
+    border-left-width: 5px;
+    border-radius: 5px;
+    padding : 10px;
+    margin : 10px;
+}
+
+
+.red {
+    border : 1px solid red;
+    border-left-width: 5px;
+}
+
+.blue {
+    border : 1px solid blue;
+    border-left-width: 5px;
+}
+
+.green {
+    border : 1px solid green;
+    border-left-width: 5px;
+}
+
+.yello {
+    border : 1px solid yello;
+    border-left-width: 5px;
+}
+
+.purple {
+    border : 1px solid purple;
+    border-left-width: 5px;
+}
+
+.orange {
+    border : 1px solid orange;
+    border-left-width: 5px;
+}

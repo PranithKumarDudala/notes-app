@@ -1,0 +1,62 @@
+.main-body {
+    
+    height: 100vh;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    
+}
+
+.login-page-card {
+
+    border: 1px solid black;
+    width: 350px;
+    height: 50vh;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.heading {
+    justify-self: flex-start;
+    margin-bottom: 50px;
+    color: green;
+    font-family: 'Roboto';
+}
+
+.labels {
+    font-weight: 500;
+    font-family: "Roboto";
+    font-size: 18px;
+    color : green;
+    margin-bottom: 10px;
+}
+
+.input-element {
+    margin-bottom: 10px;
+    height: 30px;
+    width: 250px;
+    border : 1px solid green;
+    padding : 2px;
+    padding-left: 5px;
+}
+
+.submit {
+    width: 258px;
+    height: 30px;
+    border: 0px solid transparent;
+    color : white;
+    font-size : 16px;
+    background-color: green;
+    border-radius: 4px;
+
+    margin-top: 10px;
+
+}
+
+.signup {
+    font-size: 12px;
+}
+

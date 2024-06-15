@@ -1,0 +1,113 @@
+.header {
+    width: 90vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border : 2px solid green;
+    margin: auto;
+    margin-top  : 10px;
+    align-items: baseline;
+}
+
+.text-element {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    font-size: 24px;
+    color : green;
+    margin: 10px;
+    font-family: 'Roboto';
+    padding-left: 5px;
+    border-left: 5px solid green;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+
+
+.create {
+    height : 40px;
+    width : 40px;
+    font-size: 30px;
+    background-color: green;
+    color : white;
+    margin-left: 20px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    
+}
+
+.search-box {
+    height : 40px;
+    padding-left: 10px;
+}
+.input-button {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: space-evenly;
+}
+
+.take-notes-body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.notes-card {
+    margin: auto;
+    border: 1px solid black;
+    padding-bottom: 50px;
+    width : 30vw;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    background-color: white;
+}
+
+.label {
+    font-size: 20px;
+    font-family: 'Roboto';
+    margin-bottom: 5px;
+}
+
+.input-type {
+    margin-bottom: 10px;
+    margin-top : 10px;
+    height : 40px;
+    width: 250px;
+}
+
+.input-type-button {
+    background-color: green;
+    color : white;
+    height: 40px;
+    border : 1px solid transparent;
+    border-radius: 5px;
+}
+
+.form-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.logout-btn {
+    width: 120px;
+    background-color: green;
+    color : white;
+    margin-left: 10px;
+    margin-right: 10px;
+    border : 0px solid transparent;
+    border-radius: 5px;
+}
+
+.text-box {
+    height: 150px;
+}
+
